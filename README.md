@@ -1,5 +1,5 @@
 # qb-coke
-https://github.com/Predator7158
+https://github.com/Lpadgett200/qb-coke.git
 
 Join My Server
 https://discord.gg/uvjtKv3GMC
