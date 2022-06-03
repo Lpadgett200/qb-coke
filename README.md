@@ -82,3 +82,7 @@ QBCore.Functions.DeleteObject = function(object)
     DeleteObject(object)
 end
 ```
+
+please make a client folder
+please make a images folder
+please make a server folder
